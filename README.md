@@ -7,7 +7,7 @@
 - **برنامه والدین (Parent App):**  
   [دانلود مستقیم parent-yadino.apk](https://github.com/ehsan11metal/download--apk-yadino/raw/main/parent-yadino.apk)
 
-- **برنامه کودک (Yadino App):**  
+- **برنامه دانش آموز (Yadino App):**  
   [دانلود مستقیم yadino.apk](https://github.com/ehsan11metal/download--apk-yadino/raw/main/yadino.apk)
 
 ## ⚙️ راهنمای نصب
@@ -29,7 +29,7 @@ This repository contains two APK files for the Yadino applications:
 - **Parent App (parent-yadino.apk):**  
   [Direct Download](https://github.com/ehsan11metal/download--apk-yadino/raw/main/parent-yadino.apk)
 
-- **Child App (yadino.apk):**  
+- **student App (yadino.apk):**  
   [Direct Download](https://github.com/ehsan11metal/download--apk-yadino/raw/main/yadino.apk)
 
 ## 📲 Installation Guide (Android)
